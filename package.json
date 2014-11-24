@@ -4,7 +4,7 @@
   "description": "Yeoman generator",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "wurmr/generator-bower-gulp",
+  "repository": "IntertechInc/generator-bower-gulp",
   "author": {
     "name": "Jim Karg",
     "email": "",
